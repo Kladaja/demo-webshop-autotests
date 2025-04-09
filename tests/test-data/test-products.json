@@ -1,0 +1,13 @@
+{
+    "laptop": {
+      "name": "14.1-inch Laptop",
+      "searchName" : "14.1-inch Laptop",
+      "category": "notebooks"
+    },
+    "camera": {
+      "name": "Digital SLR Camera - Black",
+      "searchName" : "Digital SLR Camera 12.2 Mpixel",
+      "category": "camera-photo"
+    }
+  }
+  
