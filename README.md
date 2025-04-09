@@ -6,7 +6,7 @@
 - Install dependencies: `npm install`
 
 ## Running Tests
-- After the setup, you can run the Playwright tests with the following command: `npx playwright test`.
+- After the setup, you can run the Playwright tests with the following command: `npx playwright test`
 
 - You can also run specific test files by providing the file path: `npx playwright test <path-to-test-file>`
 
